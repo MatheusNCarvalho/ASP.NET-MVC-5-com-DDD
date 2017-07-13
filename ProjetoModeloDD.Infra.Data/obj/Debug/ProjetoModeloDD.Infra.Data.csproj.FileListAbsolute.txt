@@ -1,0 +1,14 @@
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ProjetoModeloDD.Infra.Data.dll.config
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ProjetoModeloDD.Infra.Data.dll
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ProjetoModeloDD.Infra.Data.pdb
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ClassLibrary1.dll
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ClassLibrary1.pdb
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\obj\Debug\ProjetoModeloDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\obj\Debug\ProjetoModeloDD.Infra.Data.Migrations.AtualizaTabela.resources
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\obj\Debug\ProjetoModeloDD.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\obj\Debug\ProjetoModeloDD.Infra.Data.dll
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\obj\Debug\ProjetoModeloDD.Infra.Data.pdb

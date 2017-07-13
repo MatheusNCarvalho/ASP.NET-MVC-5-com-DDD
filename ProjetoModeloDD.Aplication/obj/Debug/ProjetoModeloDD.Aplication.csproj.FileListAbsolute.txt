@@ -1,0 +1,7 @@
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Aplication\bin\Debug\ProjetoModeloDD.Aplication.dll
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Aplication\bin\Debug\ProjetoModeloDD.Aplication.pdb
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Aplication\bin\Debug\ClassLibrary1.dll
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Aplication\bin\Debug\ClassLibrary1.pdb
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Aplication\obj\Debug\ProjetoModeloDD.Aplication.csprojResolveAssemblyReference.cache
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Aplication\obj\Debug\ProjetoModeloDD.Aplication.dll
+C:\Users\kaido\documents\visual studio 2017\Projects\ProjetoModeloDD\ProjetoModeloDD.Aplication\obj\Debug\ProjetoModeloDD.Aplication.pdb
